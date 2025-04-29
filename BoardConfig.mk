@@ -32,6 +32,3 @@ TARGET_SCREEN_DENSITY := 560
 
 # Kernel
 TARGET_KERNEL_CONFIG := exynos9810-starlte_defconfig
-
-# properties
-TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
